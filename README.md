@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fraltnn
+- 👀 I’m interested in becoming a backend developer
+- 🌱 I’m currently learning Java
