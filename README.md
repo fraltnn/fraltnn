@@ -14,9 +14,3 @@ ___
 ___
 ###
 [![GitHub Streak](https://streak-stats.demolab.com?user=fraltnn&theme=git-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-
-___
-###
-My RoadMap
-![alt](imagetest/image/image1.png)
